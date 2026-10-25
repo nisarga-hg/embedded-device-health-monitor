@@ -39,7 +39,7 @@ An ESP32-based embedded system simulation that monitors temperature and humidity
 The ESP32 reads temperature and humidity values from the DHT22 sensor every two seconds. It compares the readings with configured thresholds and reports the system status through the Serial Monitor. The LED turns on when the temperature reaches 30°C or higher.
 
 ## Simulation
-Built and tested using Wokwi. This is a simulation and has not yet been validated on physical hardware.
+https://wokwi.com/projects/478828678086158337
 
 ## Author
 Nisarga H G
